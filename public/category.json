@@ -1,0 +1,26 @@
+[
+    {
+    "id": "623853b2614ad5aba311fdd1",
+    "picture": "https://img.icons8.com/external-outline-juicy-fish/50/external-online-digital-nomad-outline-outline-juicy-fish-7.png",
+    "name": "Account & Finance",
+    "available_job": "300 Jobs Available"
+    },
+    {
+    "id": "623853b2578e9e6ad1ae0dd5",
+    "picture": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/2x/external-creative-design-graphic-designer-flatart-icons-outline-flatarticons.png",
+    "name": "Creative Design",
+    "available_job": "100+ Jobs Available"
+    },
+    {
+    "id": "623853b21fb149d2ee7b76c7",
+    "picture": "https://img.icons8.com/external-smashingstocks-glyph-smashing-stocks/2x/external-sales-marketing-content-marketing-smashingstocks-glyph-smashing-stocks.png",
+    "name": "Marketing & Sales",
+    "available_job": "150 Jobs Available"
+    },
+    {
+    "id": "623853b2e91c8de578c9245e",
+    "picture": "https://img.icons8.com/external-parzival-1997-detailed-outline-parzival-1997/2x/external-job-human-resource-management-parzival-1997-detailed-outline-parzival-1997.png",
+    "name": "Engineering Job",
+    "available_job": "224 Jobs Available"
+    }
+]
